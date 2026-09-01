@@ -2,7 +2,7 @@
 
 I build things, break things, and figure out how they work.
 
-Currently diving deep into IT & Cybersecurity — certifications, networking, the whole thing. Also shipping random projects along the way because waiting until you're "ready" is a trap.
+Currently diving deep into IT—MERN—Cyber— certifications, networking, the whole thing. I'm shipping random projects along the way because waiting until you're "ready" can be a trap.
 
 If an idea sounds interesting, I'll probably try to build it.
 
@@ -13,25 +13,16 @@ If an idea sounds interesting, I'll probably try to build it.
 - HTML & CSS
 - Python (basics)
 - Electron (yes, desktop apps count)
-- Windows, terminal, VM's, Linux, LLms, Agentic Ai and a lot of Stack Overflow
+- Windows, terminal, VM's, Linux, LLMs, agentic AI, and a lot of Stack Overflow
 
 ---
 
 ## 🚀 What I've Built
 
 ### [FocusBuddy](https://github.com/lupazcore/FocusBuddy)
-A Windows Pomodoro app — glassmorphism UI, local music, web radio, tray icon, and a screen flash aggressive enough to pull you back from doom scrolling.
+A Windows Pomodoro app — glassmorphism UI, local music, web radio, tray icon, and a screen flash aggressive enough to pull you back from doomscrolling.
 
 > More projects dropping as I learn more.
-
----
-
-## Fun Facts
-
-- Anime and K-dramas between study sessions
-- Valorant player (results may vary)
-- Big fan of story games
-- I genuinely enjoy figuring out how things work under the hood
 
 ---
 
