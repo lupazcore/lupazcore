@@ -1,30 +1,23 @@
-## Hi there 👋
-
-I build things, break things, and figure out how they work.
-
-Currently diving deep into IT—MERN—Cyber— certifications, networking, the whole thing. I'm shipping random projects along the way because waiting until you're "ready" can be a trap.
-
-If an idea sounds interesting, I'll probably try to build it.
-
+# Lupaz
+ 
+Full-stack in progress. Working through the MERN stack and Google IT Support.
+ 
+HTML and CSS done — on JavaScript now. Building small tools and clones between lessons because that's where the actual learning happens.
+ 
+---
+ 
+**Tech**  
+HTML · CSS · JavaScript · Python · Electron · Tauri · Linux
+ 
+---
+ 
+ 
+**[DirectoryScrapper](https://github.com/lupazcore/DirectoryScrapper)** — Desktop utility to scan any folder and export filenames to TXT, MD, or JSON. Built on Tauri + Rust.
+ 
+**[Netflix India Clone](https://netflix-lupazcore.vercel.app/)** — Responsive front-end clone. Rebuilt structure from a broken tutorial, made responsive manually. *(live only)*
+ 
 ---
 
-## 🛠 Tools & Tech
-
-- HTML & CSS
-- Python (basics)
-- Electron (yes, desktop apps count)
-- Windows, terminal, VM's, Linux, LLMs, agentic AI, and a lot of Stack Overflow
-
----
-
-## 🚀 What I've Built
-
-### [FocusBuddy](https://github.com/lupazcore/FocusBuddy)
-A Windows Pomodoro app — glassmorphism UI, local music, web radio, tray icon, and a screen flash aggressive enough to pull you back from doomscrolling.
-
-> More projects dropping as I learn more.
-
----
 
 ## 🌐 Find Me
 
