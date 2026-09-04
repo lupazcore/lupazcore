@@ -14,7 +14,7 @@ HTML · CSS · JavaScript · Python · Electron · Tauri · Linux
  
 **[DirectoryScrapper](https://github.com/lupazcore/DirectoryScrapper)** — Desktop utility to scan any folder and export filenames to TXT, MD, or JSON. Built on Tauri + Rust.
  
-**[Netflix India Clone]([https://netflix-lupazcore.vercel.app/](https://github.com/lupazcore/Netflix-India-Clone))** — Responsive front-end clone. Rebuilt structure from a broken tutorial, made responsive manually. *(live only)*
+**[Netflix India Clone](https://github.com/lupazcore/Netflix-India-Clone)** — Responsive front-end clone. Rebuilt the structure from a broken tutorial and made it responsive manually. *(live only)*
  
 ---
 
