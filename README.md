@@ -11,6 +11,7 @@ HTML · CSS · JavaScript · Electron · Tauri · Linux
  
 ---
  
+**[FocusBuddy](https://github.com/lupazcore/FocusBuddy)** — AI-assisted offline focus app with ambient sound mixes, focus timers, and local stats.
  
 **[DirectoryScrapper](https://github.com/lupazcore/DirectoryScrapper)** — Desktop utility to scan any folder and export filenames to TXT, MD, or JSON. Built on Tauri + Rust.
  
