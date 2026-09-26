@@ -7,7 +7,7 @@ HTML and CSS done — on JavaScript now. Building small tools and clones between
 ---
  
 **Tech**  
-HTML · CSS · JavaScript · Python · Electron · Tauri · Linux
+HTML · CSS · JavaScript · Electron · Tauri · Linux
  
 ---
  
