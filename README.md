@@ -21,7 +21,7 @@ HTML · CSS · JavaScript · Electron · Tauri · Linux
 
 ## 🌐 Find Me
 
-[![LinkedIn](www.linkedin.com/in/harshkumaragrahari)
+[![LinkedIn](https://www.linkedin.com/in/harshkumaragrahari)
 [![YouTube](https://img.shields.io/badge/YouTube-lupazofficial-red?style=flat&logo=youtube)](https://www.youtube.com/@lupazofficial)
 [![Instagram](https://img.shields.io/badge/Instagram-lupazofficial-purple?style=flat&logo=instagram)](https://www.instagram.com/lupazofficial)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord)](https://discord.gg/aKUGz7Vr)
